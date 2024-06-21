@@ -6,7 +6,7 @@ Create a Jupyter Notebook<br>
 Insert code and markdown cells<br>
 Share your notebook through GitHub<br><br>
 
-Instructions<br>
+Instructions<br><br>
 Note - Screenshots<br>
 Throughout this lab, you will be prompted to take screenshots and save them on your device. You will need these screenshots to upload them as your submission for peer review at the end of this course. You can use various free screengrabbing tools or your operating system's shortcut keys to do this (for example, Alt+PrintScreen in Windows and Shift+Command+3 for Mac).<br><br>
 
